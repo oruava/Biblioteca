@@ -1,4 +1,4 @@
 # Biblioteca
 
 Pantallazo del VPP: 
-![image](https://github.com/oruava/Biblioteca/assets/137134833/41a82f58-48e4-455a-ba9f-96bc38b8ac45)
+![image](https://github.com/oruava/Biblioteca/assets/137134833/de966b7b-da2f-4800-a36a-45f8c4af0608)
